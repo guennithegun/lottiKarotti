@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/lottikarotti/static/css/main.2fef9eb9.chunk.css",
-    "main.js": "/lottikarotti/static/js/main.9b59d064.chunk.js",
-    "main.js.map": "/lottikarotti/static/js/main.9b59d064.chunk.js.map",
+    "main.css": "/lottikarotti/static/css/main.d18f35dc.chunk.css",
+    "main.js": "/lottikarotti/static/js/main.e7c099d5.chunk.js",
+    "main.js.map": "/lottikarotti/static/js/main.e7c099d5.chunk.js.map",
     "runtime-main.js": "/lottikarotti/static/js/runtime-main.ab77a960.js",
     "runtime-main.js.map": "/lottikarotti/static/js/runtime-main.ab77a960.js.map",
     "static/js/2.47f43a56.chunk.js": "/lottikarotti/static/js/2.47f43a56.chunk.js",
     "static/js/2.47f43a56.chunk.js.map": "/lottikarotti/static/js/2.47f43a56.chunk.js.map",
     "index.html": "/lottikarotti/index.html",
-    "precache-manifest.2cf7336bde50ebe03ce70403a7349a2b.js": "/lottikarotti/precache-manifest.2cf7336bde50ebe03ce70403a7349a2b.js",
+    "precache-manifest.785bc7459fa3ea9e07bb550fa4aaeed8.js": "/lottikarotti/precache-manifest.785bc7459fa3ea9e07bb550fa4aaeed8.js",
     "service-worker.js": "/lottikarotti/service-worker.js",
-    "static/css/main.2fef9eb9.chunk.css.map": "/lottikarotti/static/css/main.2fef9eb9.chunk.css.map",
+    "static/css/main.d18f35dc.chunk.css.map": "/lottikarotti/static/css/main.d18f35dc.chunk.css.map",
     "static/js/2.47f43a56.chunk.js.LICENSE": "/lottikarotti/static/js/2.47f43a56.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.ab77a960.js",
     "static/js/2.47f43a56.chunk.js",
-    "static/css/main.2fef9eb9.chunk.css",
-    "static/js/main.9b59d064.chunk.js"
+    "static/css/main.d18f35dc.chunk.css",
+    "static/js/main.e7c099d5.chunk.js"
   ]
 }
