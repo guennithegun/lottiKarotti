@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7036615557f3b83e9be4882b6532b08",
+    "revision": "0683d42a5260c86e7f18c4cb76a0e47f",
     "url": "/lottikarotti/index.html"
   },
   {
-    "revision": "3aec8c14dfda1499996d",
+    "revision": "a890dd56e2245fb73b1b",
     "url": "/lottikarotti/static/css/main.d1ea17a0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lottikarotti/static/js/2.47f43a56.chunk.js.LICENSE"
   },
   {
-    "revision": "3aec8c14dfda1499996d",
-    "url": "/lottikarotti/static/js/main.ad4c8528.chunk.js"
+    "revision": "a890dd56e2245fb73b1b",
+    "url": "/lottikarotti/static/js/main.21814c83.chunk.js"
   },
   {
     "revision": "01712a86abf07c40f61c",
